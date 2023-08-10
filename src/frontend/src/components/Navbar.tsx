@@ -25,7 +25,7 @@ export default function Navbar() {
          text-sm font-bold md:block"
           >
             {" "}
-            Pocker Club
+            Poker Club
           </p>
         </Link>
 
